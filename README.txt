@@ -2,4 +2,4 @@
 The plone.app.debugtoolbar also provides this functionality. It’s recommended to use the debugtoolbar." 
 (From http://example-plone-developement-tools.readthedocs.org/en/latest/)
 
-See ./Products/Clouseau/README.txt
+For documentation of this product see ./Products/Clouseau/README.txt
